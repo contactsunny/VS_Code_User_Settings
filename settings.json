@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-great-icons",
+    "window.zoomLevel": 0,
+    "editor.renderIndentGuides": true
+}
